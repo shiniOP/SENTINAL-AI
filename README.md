@@ -914,20 +914,14 @@ The system records why an action happened, what agent performed it and what happ
 
 Possible production extensions:
 
-- Kubernetes read-only diagnostics
-- Prometheus/Grafana metrics
-- Jira/ServiceNow incident integration
-- Slack/Teams notifications
-- deployment and CI/CD integrations
-- vector memory for historical incidents
-- learned tool selection
-- cost-aware planning
-- latency-aware routing
-- persistent PostgreSQL checkpointer
-- OpenTelemetry tracing
-- human approval through Slack/Teams
-- real reversible rollback execution
-- automated regression/evaluation datasets
+AWS Bedrock model gateway
+DeepEval evaluation
+GitHub Actions CI/CD
+React + FastAPI replacing Streamlit
+production deployment architecture
+persistent state
+future Kubernetes/Jira/telemetry integrations
+roadmap table
 
 ---
 
