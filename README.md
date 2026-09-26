@@ -1,3 +1,6 @@
+DEPLOYED CURRENTLY IN STREAMLIT FOR TIME CONSTRAINT (REACT DEPLOYMENT IN FUTURE)
+
+
 # 🛡️ Sentinel AI — Multi-Agent Incident Resolution System
 
 > **P-03: Multi-Agent Systems — Systems That Plan, Delegate and Recover**
